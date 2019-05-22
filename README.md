@@ -1,0 +1,2 @@
+# wiki
+Notion as WikiLinks
